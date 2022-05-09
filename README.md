@@ -3,6 +3,11 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marqes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pe.marqes)
+[![Icloud](https://img.shields.io/badge/Icloud-888?style=for-the-badge&logo=icloud&logoColor=white)](https://instagram.com/pe.marqes)
+[![Gmail](https://img.shields.io/badge/Gmail-d65252?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/pe.marqes)
+
+
+
 
 
 ![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-marqes&show_icons=true&theme=dracula&count_private=true )
