@@ -1,8 +1,8 @@
 
 ## Olá! Eu sou o Pedro Marques 🖐️
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marqes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pe.marqes)
 
 
 ![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-marqes&show_icons=true&theme=dracula&count_private=true )
