@@ -5,8 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
 
-![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-marqes&show_icons=true&theme=dracula&count_private=true&layout=compact )
-![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-marqes&langs_count=7&theme=dracula&count_private=true&layout=compact)
+![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-marqes&show_icons=true&theme=dracula&count_private=true )
+![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-marqes&langs_count=7&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
