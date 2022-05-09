@@ -6,6 +6,7 @@
 
 
 ![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-marqes&show_icons=true&theme=dracula&count_private=true)
+![Pedro Marques GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-marqes&langs_count=7&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
