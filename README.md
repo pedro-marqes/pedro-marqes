@@ -3,8 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marqes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pe.marqes)
-[![Icloud](https://img.shields.io/badge/Icloud-888?style=for-the-badge&logo=icloud&logoColor=white)](https://instagram.com/pe.marqes)
-[![Gmail](https://img.shields.io/badge/Gmail-d65252?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/pe.marqes)
+[![Icloud](https://img.shields.io/badge/Icloud-888?style=for-the-badge&logo=icloud&logoColor=white)](mailto:pe.marques@icloud.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d65252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pe.marques118@gmail.com)
 
 
 
